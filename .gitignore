@@ -1,0 +1,8 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/$/
+/src/test/
+/.idea
+
